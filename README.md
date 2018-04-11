@@ -30,20 +30,10 @@ The generated news format is a dictionary in python and out put as ```.json```
     }
 ```
 
-## Output Directory
-
-The output file is default as below:
-```
-Media-And-Judging/data/news/full/nyt_[begin_date]_[end_date].json
-```
-
 
 
 ## Acknowledgements
 
-(New York Times Public Api Specs)[https://github.com/NYTimes/public_api_specs]
-(get-nytimes-articles)[https://github.com/casmlab/get-nytimes-articles]
-(evansherlock/nytimesarticle)[https://github.com/evansherlock/nytimesarticl]
-
-
-
+[New York Times Public Api Specs](https://github.com/NYTimes/public_api_spec)
+[get-nytimes-articles](https://github.com/casmlab/get-nytimes-articles)
+[evansherlock/nytimesarticle](https://github.com/evansherlock/nytimesarticl)
